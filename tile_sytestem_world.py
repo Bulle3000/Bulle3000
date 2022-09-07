@@ -3,7 +3,7 @@ import pygame,sys
 #game initialization
 pygame.init()
 display = pygame.display.set_mode((1000,1000  ),0,32)
-pygame.display.set_caption('Farming sim')
+pygame.display.set_caption('tile system')
 clock = pygame.time.Clock()
 
 #world
